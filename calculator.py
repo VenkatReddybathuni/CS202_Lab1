@@ -1,6 +1,6 @@
-import sys
-
 """A simple calculator module that supports basic arithmetic operations."""
+
+import sys
 
 
 class Calculator:
